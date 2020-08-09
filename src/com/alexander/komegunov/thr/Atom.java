@@ -1,4 +1,4 @@
-package com.alexander.komegunov;
+package com.alexander.komegunov.thr;
 
 public class Atom {
 
